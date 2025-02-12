@@ -1,5 +1,5 @@
 # CFBRecruitsGame
-# The SEC Football Recruiting Game
+## The SEC Football Recruiting Game
 
 A text-based college football recruiting simulation game that lets you experience the excitement of modern college football recruiting, complete with Name, Image, and Likeness (NIL) deals and unique regional opportunities.
 
